@@ -1,7 +1,5 @@
 ---
 title: "Long Form Post"
-date: 2018-03-08T20:18:53-05:00
-showDate: true
 draft: false
 tags: ["blog","code"]
 ---
@@ -10,8 +8,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 > In nibh mauris cursus mattis. Enim ut sem viverra aliquet eget sit. Risus sed vulputate odio ut enim. Id interdum velit laoreet id.
 >
-> * Id aliquet risus feugiat in ante metus dictum. 
-> * Enim nulla aliquet porttitor lacus luctus accumsan tortor. 
+> * Id aliquet risus feugiat in ante metus dictum.
+> * Enim nulla aliquet porttitor lacus luctus accumsan tortor.
 >
 > A scelerisque purus semper eget duis at tellus at. Proin fermentum leo vel orci porta non pulvinar. Nunc scelerisque viverra mauris in. Accumsan tortor posuere ac ut consequat. Lorem ipsum dolor sit amet consectetur adipiscing. Varius sit amet mattis vulputate enim nulla. Diam quis enim lobortis scelerisque fermentum dui faucibus in.
 
@@ -21,7 +19,7 @@ Accumsan tortor posuere ac ut consequat.
 * aliquet
 * egestas sed
 
-Tortor id aliquet lectus proin nibh nisl condimentum id venenatis. 
+Tortor id aliquet lectus proin nibh nisl condimentum id venenatis.
 
 1. scelerisque
 2. habitasse
