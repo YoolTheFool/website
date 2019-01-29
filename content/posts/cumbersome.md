@@ -23,7 +23,7 @@ Morton was a pioneer in experimenting and composing with audio-signals and contr
 One of these machines (which Morton was a part of the development team) is the Buchla modular-synth.
 
 ![](/gallery/images/cumbersome/buchla200e.jpg)
-(Buchla 200-e model)
+(Buchla 200-e)
 
 Created by [Don Buchla](https://en.wikipedia.org/wiki/Don_Buchla), this marvelous west-coast synth is a factory for pure sound synthesis.
 Buchla took the CV (control-voltage) and the modulations to a much higher level, thus allowing the new-born genre to evolve and reach out to musicians and sound engineers everywhere.
@@ -61,8 +61,10 @@ Feedback the recordings to the envelope-follower module in the Buchla.
 4. Carve the transitions in the CNC, and record the sounds -<br>
   {{< vimeo 313706618 >}}<br>
 Transition 1 - Sine pitch-shift
-<!-- ![](/gallery/images/cumbersome/SineRotation.gif) -->
+![](https://media.giphy.com/media/9ruTtwkQ0tSCpok3M1/giphy.gif)
 Transition 2 - Timbre frequency-shift
+![](https://media.giphy.com/media/5kFoWwl4M7xQKv3697/giphy.gif)
+
 <!-- ![](/gallery/images/cumbersome/timbreRotate.gif) -->
 
 5. Feed the audio from the CNC to the envelope-follower in the Buchla -<br>

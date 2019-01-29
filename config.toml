@@ -31,8 +31,8 @@ pygmentsCodefences      = true
     text = "work"
 
 [[params.mainMenu]]
-    link = "/gallery"
-    text = "gallery"
+    link = "/gallary"
+    text = "Blogy"
 
 [[params.mainMenu]]
     link = "/about"
