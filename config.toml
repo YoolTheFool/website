@@ -30,9 +30,6 @@ pygmentsCodefences      = true
     link = "/posts"
     text = "work"
 
-[[params.mainMenu]]
-    link = "/gallary"
-    text = "blogy"
 
 [[params.mainMenu]]
     link = "/about"
