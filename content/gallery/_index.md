@@ -1,5 +1,5 @@
 ---
 title: "Photos from Tokyo"
-type: "Blog"
+type: "blog"
 url: "/blog"
 ---
