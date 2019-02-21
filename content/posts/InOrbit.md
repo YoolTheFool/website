@@ -16,11 +16,11 @@ It was presented at ITP Spring Show 2018.
 <font size="5"> A space vessel </font> is bound to the gravitational strings of a dying planet. The ship's log reveals the final thoughts of the last survivor on board.
 
 The piece is a 3 minutes video installation, in which the viewer steps into the flight deck of an orbiting vessel.
-Through the cockpit-windows, you can see the deterioration of a planet, which this vessel is destined to circle for millions of years. <br>
+Through the cockpit-windows, you can see the deterioration of a planet, which this vessel is orbiting on the wings of inertia. <br>
 
 ![](/gallery/images/inOrbit/0C2A0514.JPG)
 
-On the screens bellow, you see the captain's log entries of the ship while the outside scene takes place.
+On the monitors bellow, you see the captain's log entries while the outside scene takes place.
 
 In the log, it seems that the captain is referring to his long lost love he left behind.
 
