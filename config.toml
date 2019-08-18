@@ -34,3 +34,7 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/about"
     text = "ayal?"
+
+[[params.mainMenu]]
+    link = "/thesis"
+    text = "my ITP thesis"

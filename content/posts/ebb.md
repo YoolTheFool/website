@@ -6,7 +6,7 @@ draft: false
 
 {{< vimeo 308814023 >}}
 
-<strong> The Mediterranean sea </strong>
+<h3> The Mediterranean sea </h3>
 
 A salty bridge between 3 continents.
 Between two oceans.
