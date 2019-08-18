@@ -11,7 +11,7 @@ pygmentsCodefences      = true
 [params]
     dateform            = "Tue Jan 01, 2019"
     dateformfull        = "Tue Jan 01, 2019 15:04:05 EST"
-    favicon             = "helicopter.png"
+    favicon             = "content/helicopter.png"
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
