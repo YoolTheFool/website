@@ -11,7 +11,7 @@ Used to be a helicopter pilot, now focusing on making my surroundings ask questi
 
 I work on - Audio and sound design, visual experiences, installations and web-development.
 
-Graduating from NYU's <strong>ITP</strong> (interactive telecommunication program) at Tisch School of the Art.<br>
+Graduated from NYU's <strong>ITP</strong> (interactive telecommunication program) at Tisch School of the Art.<br>
 
 Strong intuition, social consciousness, and hutzpah. <br>
 
