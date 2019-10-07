@@ -4,14 +4,13 @@ date: 2018-02-13T13:42:49-05:00
 ---
 
 Hello, I'm Ayal.<br>
-I'm a creative-technologist.<br>
-Trying to look where no one else does. <br>
 I live in Brooklyn, NYC.<br>
-Used to be a helicopter pilot, now focusing on making my surroundings ask questions and wonder.
+Used to be a Helicopter pilot, now I'm not.<br>
+Now, I think I am a creative-technologist.<br>
 
-I work on - Audio and sound design, visual experiences, installations and web-development.
+Working on - Audio and sound design, visual experiences, interactive installations and web-development.
 
-Graduated from NYU's <strong>ITP</strong> (interactive telecommunication program) at Tisch School of the Art.<br>
+Graduated from NYU's <b>ITP</b> (interactive telecommunication program) at Tisch School of the Art.<br>
 
 Strong intuition, social consciousness, and hutzpah. <br>
 
