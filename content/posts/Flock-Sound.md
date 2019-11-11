@@ -1,6 +1,5 @@
 ---
 title: "Flock Music"
-date: 2018-02-01T12:35:11-05:00
 
 ---
  a collaboration with the <font size="4.5">Itay Niv </font>
