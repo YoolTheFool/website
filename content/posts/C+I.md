@@ -24,7 +24,6 @@ The designers of the space researched the most promising proposals to combat cli
 
 <br>
 
-/Users/ayalrosenberg/Desktop/website/content/gallery/images/C+I/work1.jpeg
 My collaborator, Isabella Vento, and I designed "Channeling Waste" -  <br>
 an interactive, projection-mapping installation using Isadora and Arduino. 
 The users would trigger the projections by "flushing" the main barrel and explore the different applications of sewer treatment.
